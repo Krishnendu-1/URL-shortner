@@ -23,13 +23,19 @@ Nanoid – Generate unique URL identifiers.
 
 # Project Structure
 
-`|-- models
-|-- routes
-|-- controllers
-|-- utils
-|-- .env
-|-- server.js
-|-- package.json`
+`|-- models`
+
+`|-- routes`
+
+`|-- controllers`
+
+`|-- utils`
+
+`|-- .env`
+
+`|-- server.js`
+
+`|-- package.json`
 
 
 # API Endpoints (Tested on Postman)
